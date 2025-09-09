@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6LJWnyv5kqNGA4BLvO/7fgL1aa/ocICGoGFOoaEV3dALe9Ti7k0u/USAsgEN6Hwj+yK4/dwu6HN1Yof6k1HR7Q==",
+  "success": true,
+  "projectFilePath": "/home/runner/work/docker_image_pusher/docker_image_pusher/CVInferencePlatform/CVInferencePlatform.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.win32.systemevents/8.0.0/microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/system.drawing.common/8.0.0/system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
