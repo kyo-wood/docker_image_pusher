@@ -1,0 +1,53 @@
+# Build artifacts
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+
+# Visual Studio
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+*.vcxproj.filters
+*.vcxproj.user
+
+# NuGet
+packages/
+*.nupkg
+
+# IDE
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Model files (too large for git)
+*.pt
+*.onnx
+*.engine
+Models/
+
+# Output directories
+Output/
+Results/
+Temp/
